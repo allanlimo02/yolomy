@@ -285,3 +285,23 @@ body{
 select{
     background: white;
   }
+
+  /* Anout us section */
+  .about-section {
+    background-image:url(assets/backgrounds/about.jpg);
+    padding: 70px;
+  }
+  .about{
+    border-style: solid;
+    border-width: 1px;
+    margin: 0 20%;
+    font-size: 140%;
+    border-color: #967727;
+    background: transparent;
+    color: white;
+  }
+  .about p{
+      position: relative;
+      margin-top: -15px;
+      text-align: center;
+  }
