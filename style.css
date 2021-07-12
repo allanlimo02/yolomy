@@ -98,3 +98,190 @@ body{
 	align-self: right;
 }
 /* Shopping section */
+#Product1{
+    background-color: #E4E4E4;
+    height:350px;
+    text-align: center;
+    border: solid;
+    border-color: #664400;
+}
+#Product1 h1{
+  font-weight: bold;
+  color: #664400;
+  font-size: 15px;
+  position: absolute;
+  width: 50%;
+  bottom: 10px;
+}
+#product1 h2{
+  font-weight: bold;
+  color: #000;
+  font-size: 15px;
+  position: absolute;
+  width: 80%;
+  bottom: 10px;
+  text-align: right;
+}
+#shirt select{
+  background: transparent;
+  border: none;
+}
+#shirt{
+    background-color: #E4E4E4;
+    height:350px;
+    text-align: center;
+    border: solid;
+    border-color: #664400;
+}
+#shirt p{
+  padding: 25px;
+  text-align: left;
+}
+#shirt h1{
+  font-weight: bold;
+  color: #664400;
+  font-size: 15px;
+  position: absolute;
+  width: 50%;
+  bottom: 10px;
+}
+#shirt h2{
+  font-weight: bold;
+  color: #000;
+  font-size: 15px;
+  position: absolute;
+  width: 80%;
+  bottom: 10px;
+  text-align: right;
+}
+#pants{
+    background-color: #E4E4E4;
+    height:350px;
+    border: solid;
+    border-color: #664400; 
+    text-align: center;   
+}
+#pants select{
+  background: transparent;
+  border: none;
+}
+#pants h1{
+  font-weight: bold;
+  color: #664400;
+  font-size: 15px;
+  position: absolute;
+  width: 50%;
+  bottom: 10px;
+}
+#pants h2{
+  font-weight: bold;
+  color: #000;
+  font-size: 15px;
+  position: absolute;
+  width: 80%;
+  bottom: 10px;
+  text-align: right;
+}
+#backpack{
+    background-color: #E4E4E4;
+    height:350px;
+    border: solid;
+    border-color: #664400;  
+    text-align: center;  
+}
+#backpack select{
+  background: transparent;
+  border: none;
+}
+#backpack h1{
+  font-weight: bold;
+  color: #664400;
+  font-size: 15px;
+   font-weight: bold;
+  color: #664400;
+  font-size: 15px;
+  position: absolute;
+  width: 50%;
+  bottom: 10px;
+}
+#backpack h2{
+  font-weight: bold;
+  color: #000;
+  font-size: 15px;
+  position: absolute;
+  width: 80%;
+  bottom: 10px;
+  text-align: right;
+}
+#trekkingshoes{
+    background-color: #E4E4E4;
+    height:350px;
+    border: solid;
+    border-color: #664400;
+    text-align: center;   
+}
+#trekkingshoes select{
+  background: transparent;
+  border: none;
+}
+#trekkingshoes p{
+  padding-top: 20px;
+}
+#trekkingshoes h1{
+  font-weight: bold;
+  color: #664400;
+  font-size: 15px;
+  position: absolute;
+  width: 50%;
+  bottom: 10px;  
+}
+#trekkingshoes h2{
+  font-weight: bold;
+  color: #000;
+  font-size: 15px;
+  position: absolute;
+  width: 80%;
+  bottom: 10px;
+  text-align: right;
+}
+#gracket{
+  background-color: #E4E4E4;
+    height:350px;
+    border: solid;
+    border-color: #664400;
+    text-align: center
+}
+#gracket p{
+  text-align: center;
+}
+#tshirt_ladies{
+    background-color: #E4E4E4;
+    height:350px;
+    border: solid;
+    border-color: #664400;
+    text-align: center;   
+}
+#tshirt_ladies select{
+  background: transparent;
+  border: none;
+}
+#tshirt_ladies h1{
+  font-weight: bold;
+  color: #664400;
+  font-size: 15px;
+  position: absolute;
+  width: 30%;
+  bottom: 10px;
+}
+#tshirt_ladies h2{
+  font-weight: bold;
+  color: #000;
+  font-size: 15px;
+  position: absolute;
+  width: 80%;
+  bottom: 10px;
+  text-align: right;
+}
+select{
+    background: white;
+  }
